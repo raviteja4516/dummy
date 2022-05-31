@@ -1,1 +1,2 @@
 iam a developer of python
+print("this is command")
